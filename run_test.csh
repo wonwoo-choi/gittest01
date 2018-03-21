@@ -17,4 +17,4 @@ git pull https://wonwoo-choi@github.com/wonwoo-choi/gittest01.git master
 git init
 git add . 
 git commit -m "update"
-git push
+git push -u origin master
